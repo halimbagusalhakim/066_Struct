@@ -20,9 +20,9 @@ int main() {
     cin >> mhs.umur;
 
     cout << endl;
-    cout <<"\n NIM :" << mhs.nim;
-    cout << "\n Nama : " << mhs.nama;
-    cout << "\n Alamat : " << mhs.alamat;
-    cout << "\n Umur : " << mhs.umur;
+    cout <<"\n NIM  Mahasiswa:" << mhs.nim;
+    cout << "\n Nama Mahasiswa : " << mhs.nama;
+    cout << "\n Alamat Mahasiswa: " << mhs.alamat;
+    cout << "\n Umur Mahasiswa : " << mhs.umur;
 }
 
